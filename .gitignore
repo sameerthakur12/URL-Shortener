@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# dotenv
+.env
+
+# System files
+.DS_Store
+
+# Optional: OS or IDE specific
+.vscode/
+.idea/
