@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
 
-# Logs
+# Logit push -u origin maings
 *.log
 logs/
 npm-debug.log*
